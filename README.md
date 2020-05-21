@@ -11,7 +11,7 @@ A project for study, clone of Dropbox, using React.js, is permited upload images
 ![Panel User](https://uploaddeimagens.com.br/images/002/663/603/full/10.png)
 <br />
 🇧🇷 Veja meu perfil para visualizar este projeto na versão móvel com React Native.<br />
-See my profile to view this project in version mobile with React Native.<br />
+🇺🇸 See my profile to view this project in version mobile with React Native.<br />
 
 ## Available Scripts
 
