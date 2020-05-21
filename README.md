@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![alt text](https://nextbox.herokuapp.com/files/07763d8119d6e0f0bd7f0c607852b787-cabo1.jpg)
+![alt text](https://nextbox.herokuapp.com/files/9eb910a16d098cd3ef171f724e4ac0fb-10.png)
 
 ## Available Scripts
 
