@@ -8,7 +8,7 @@ A project for study, clone of Dropbox, using React.js, is permited upload images
 🔃 View the back-end (API) of project: [Back-end](https://github.com/brunomenesesdev/nextboxbackend). <br />
 🌎 View the project online: [Project Online](https://nextbox-front-end.herokuapp.com/). <br />
 <br />
-![alt text](https://nextbox.herokuapp.com/files/9eb910a16d098cd3ef171f724e4ac0fb-10.png)
+![Panel User](https://uploaddeimagens.com.br/images/002/663/603/full/10.png)
 
 ## Available Scripts
 
