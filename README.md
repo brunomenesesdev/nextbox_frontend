@@ -1,13 +1,13 @@
-## 🇧🇷 pt-BR
-Um projeto para estudo, clone do DropBox, utilizando React.js, ele permite upload de imagens.
-🔃 Confira o back-end (API) do projeto: [Back-end](https://github.com/brunomenesesdev/nextboxbackend).
-🌎 Visualize o projeto online: [Projeto Online](https://nextbox-front-end.herokuapp.com/).
-
-## 🇺🇸 US
-A project for study, clone of Dropbox, using React.js, is permited upload images.
-🔃 View the back-end (API) of project: [Back-end](https://github.com/brunomenesesdev/nextboxbackend).
-🌎 View the project online: [Project Online](https://nextbox-front-end.herokuapp.com/).
-
+## 🇧🇷 <br />
+Um projeto para estudo, clone do DropBox, utilizando React.js, ele permite upload de imagens. <br />
+🔃 Confira o back-end (API) do projeto: [Back-end](https://github.com/brunomenesesdev/nextboxbackend). <br />
+🌎 Visualize o projeto online: [Projeto Online](https://nextbox-front-end.herokuapp.com/). <br />
+<br /> 
+## 🇺🇸 <br />
+A project for study, clone of Dropbox, using React.js, is permited upload images. <br />
+🔃 View the back-end (API) of project: [Back-end](https://github.com/brunomenesesdev/nextboxbackend). <br />
+🌎 View the project online: [Project Online](https://nextbox-front-end.herokuapp.com/). <br />
+<br />
 ![alt text](https://nextbox.herokuapp.com/files/9eb910a16d098cd3ef171f724e4ac0fb-10.png)
 
 ## Available Scripts
